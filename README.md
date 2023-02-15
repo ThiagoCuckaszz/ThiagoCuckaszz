@@ -1,10 +1,21 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F700A7&lines=SEJA+BEM+VINDO!)](https://git.io/typing-svg)
+
+ ##
+
 ### Olá!! sou o Thiago Cuckasz
 
+- 📘 Cursando Sistemas de Informação | Uniuv
+- 🪛 Estagiario de T.I | Centro de Saúde Dr. Carlos Renato De Passos
+- 🙋‍♂️ 18 anos
 
+ ##
+ 
 <div>
   <a href="https://github.com/ThiagoCuckaszz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCuckaszz&show_icons=true&theme=radical">
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCuckaszz&layout=compact&theme=radical">
 </div>
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -22,4 +33,3 @@
   
 </div>
 
-![Snake animation](https://github.com/ThiagoCuckaszz/ThiagoCuckaszz/blob/output/github-contribution-grid-snake.svg)
