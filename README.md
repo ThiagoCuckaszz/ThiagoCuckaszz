@@ -6,7 +6,7 @@
 
 - 📘 Cursando Sistemas de Informação | Uniuv
 - 🪛 Estagiario de T.I | Centro de Saúde Dr. Carlos Renato Passos
-- 🙋‍♂️ 19 anos
+- 🙋‍♂️ 20 anos
 
  ##
  
