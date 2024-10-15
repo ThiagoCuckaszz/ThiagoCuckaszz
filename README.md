@@ -5,7 +5,7 @@
 ### Olá!! sou o Thiago Cuckasz
 
 - 📘 Cursando Sistemas de Informação | Uniuv
-- 🪛 Estagiario de T.I | Centro de Saúde Dr. Carlos Renato Passos
+- 🪛 Estagiario de T.I | Moretto Bem Viver
 - 🙋‍♂️ 20 anos
 
  ##
