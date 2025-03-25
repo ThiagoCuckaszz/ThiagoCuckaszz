@@ -6,7 +6,7 @@
 
 - 📘 Cursando Sistemas de Informação | Uniuv
 - 🪛 Estagiario de T.I | Moretto Bem Viver
-- 🙋‍♂️ 20 anos
+- 🙋‍♂️ 21 anos
 
  ##
  
